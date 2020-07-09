@@ -1,6 +1,4 @@
-Hey 👋 I'm Arpit
-
-_CS Engineer and a Polymath_
+## Hey 👋 I'm Arpit
 
 A Computer Science Engineer who has most recently spent 5 years building scalable distributed systems and search engines at [Amazon](https://amazon.com), [Practo](https://practo.com), and [Unacademy](https://unacademy.com).
 
