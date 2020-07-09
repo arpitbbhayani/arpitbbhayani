@@ -2,7 +2,7 @@ Hey 👋 I'm Arpit
 
 _CS Engineer and a Polymath_
 
-A Computer Science Engineer who has most recently spent 5 years building scalable distributed systems and search engines at [Amazon](https://amazon.com), [Practo](https://practo.com], and [Unacademy](https://unacademy.com).
+A Computer Science Engineer who has most recently spent 5 years building scalable distributed systems and search engines at [Amazon](https://amazon.com), [Practo](https://practo.com), and [Unacademy](https://unacademy.com).
 
 I write essays on various engineering topics and share it through my weekly [newsletter](https://arpitbhayani.me/newsletter); here are few of them
 
