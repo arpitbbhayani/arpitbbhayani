@@ -1,13 +1,12 @@
-## Hey 👋 I'm Arpit
+I am a CS engineer passionate about building systems that scale and currently working with **Google** as a Staff Software Engineer with the Dataproc team and making Apache Spark faster.
 
-A Computer Science Engineer who has most recently spent 5 years building scalable distributed systems and search engines at [Amazon](https://amazon.com), [Practo](https://practo.com), and [Unacademy](https://unacademy.com).
+Throughout my career, I have worked across a variety of domains and have built systems, services, and platforms that scale to billions; and have worked at companies like Unacademy, Amazon, Practo, and D. E. Shaw.
 
-I write essays on various engineering topics and share it through my weekly [newsletter](https://arpitbhayani.me/newsletter); here are few of them
+I hold a Master's in CS from IIIT-Hyderabad, specializing in Databases, Information Retrieval and Web Mining. I teach a cohort-based course on System Design and have taught **1000+** engineers. On the side, I am
 
- - [Consistent Hashing](https://arpitbhayani.me/blogs/consistent-hashing)
- - [The RUM Conjecture](https://arpitbhayani.me/blogs/rum)
- - [Making Python Integers Iterable](https://arpitbhayani.me/blogs/python-iterable-integers)
- - [Deciphering Single-byte XOR Ciphertext](https://arpitbhayani.me/blogs/decipher-single-xor)
- - [Building Finite State Machines with Python Coroutines](https://arpitbhayani.me/blogs/fsm)
-
-Subscribe to the [newsletter](https://arpitbhayani.me/newsletter) and every Sunday get an engineering article delivered straight to your inbox.
+-   building a tiny in-mem database [DiceDB](https://github.com/dicedb/dice)
+-   running a [YouTube channel](https://youtube.com/c/ArpitBhayani) with 20k subscribers
+-   publishing a [newsletter](https://arpit.substack.com) with 21k readers
+-   putting out one-liners through [The Smarter Chimp](https://twitter.com/TheSmarterChimp)
+-   reading and implementing a bunch of [research papers](https://arpitbhayani.me/papershelf)
+-   reading a few [engineering books](https://arpitbhayani.me/bookshelf) every now and then
