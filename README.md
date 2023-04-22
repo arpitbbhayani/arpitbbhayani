@@ -5,7 +5,7 @@ Throughout my career, I have worked across a variety of domains and have built s
 I hold a Master's in CS from IIIT-Hyderabad, specializing in Databases, Information Retrieval and Web Mining. I teach a cohort-based course on System Design and have taught **1000+** engineers. On the side, I am
 
 -   building a tiny in-mem database [DiceDB](https://github.com/dicedb/dice)
--   running a [YouTube channel](https://youtube.com/c/ArpitBhayani) with 20k subscribers
+-   running a [YouTube channel](https://youtube.com/c/ArpitBhayani) with 40k subscribers
 -   publishing a [newsletter](https://arpit.substack.com) with 21k readers
 -   putting out one-liners through [The Smarter Chimp](https://twitter.com/TheSmarterChimp)
 -   reading and implementing a bunch of [research papers](https://arpitbhayani.me/papershelf)
