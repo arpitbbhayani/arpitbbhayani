@@ -6,5 +6,3 @@ I keep diving deep into engineering details and share my learnings across my [so
 
 -   [DiceDB](https://github.com/dicedb/dice) - a re-implementation of Redis in Go
 -   [Revine](https://revine.arpitbhayani.me) - a visual programming language for kids
-
-You can find me on my socials below where, apart from engineering topics, I talk about career growth and how to become a better engineer.
