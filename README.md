@@ -1,12 +1,10 @@
-I am a CS engineer passionate about building systems that scale and currently working with **Google** as a Staff Software Engineer with the Dataproc team and making Apache Spark faster.
+I am a software engineer passionate about System Architecture, Language Internals, Distributed Datastores, and Advanced Algorithms. In 2024, I took the leap of faith and co-founded [Duggup](https://duggup.com), where I am operating as the CTO taking of all things tech.
 
-Throughout my career, I have worked across a variety of domains and have built systems, services, and platforms that scale to billions; and have worked at companies like Unacademy, Amazon, Practo, and D. E. Shaw.
+Before co-founding Duggup, I was a Staff Engineer at [Google](https://cloud.google.com/) leading the [Dataproc](https://cloud.google.com/dataproc) India team in providing managed big data ecosystem to GCP customers. I hold 10+ years of experience in building and scaling backend services across domains and companies like [Unacademy](https://unacademy.com/), [Amazon](https://www.amazon.in/), [Practo](https://www.practo.com/), and [D. E. Shaw](https://www.deshawindia.com/).
 
-I hold a Master's in CS from IIIT-Hyderabad, specializing in Databases, Information Retrieval and Web Mining. I teach a cohort-based course on System Design and have taught **1000+** engineers. On the side, I am
+I keep diving deep into engineering details and share my learnings across my [socials](https://twitter.com/arpit_bhayani) and videos on [YouTube](https://youtube.com/c/ArpitBhayani). To put my learning to practice, I keep building things on the side and a few of my good hobby projects include
 
--   building a tiny in-mem database [DiceDB](https://github.com/dicedb/dice)
--   running a [YouTube channel](https://youtube.com/c/ArpitBhayani) with 20k subscribers
--   publishing a [newsletter](https://arpit.substack.com) with 21k readers
--   putting out one-liners through [The Smarter Chimp](https://twitter.com/TheSmarterChimp)
--   reading and implementing a bunch of [research papers](https://arpitbhayani.me/papershelf)
--   reading a few [engineering books](https://arpitbhayani.me/bookshelf) every now and then
+-   [DiceDB](https://github.com/dicedb/dice) - a re-implementation of Redis in Go
+-   [Revine](https://revine.arpitbhayani.me) - a visual programming language for kids
+
+You can find me on my socials below where, apart from engineering topics, I talk about career growth and how to become a better engineer.
