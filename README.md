@@ -1,4 +1,4 @@
-I am a software engineer passionate about System Architecture, Language Internals, Distributed Datastores, and Advanced Algorithms. In 2024, I took the leap of faith and co-founded [Duggup](https://duggup.com), where I am operating as the CTO taking of all things tech.
+I am a software engineer passionate about System Architecture, Language Internals, Distributed Datastores, and Advanced Algorithms. In 2024, I took the leap of faith and co-founded [Duggup](https://duggup.com), where I am operating as the CTO taking care of all things tech.
 
 Before co-founding Duggup, I was a Staff Engineer at [Google](https://cloud.google.com/) leading the [Dataproc](https://cloud.google.com/dataproc) India team in providing managed big data ecosystem to GCP customers. I hold 10+ years of experience in building and scaling backend services across domains and companies like [Unacademy](https://unacademy.com/), [Amazon](https://www.amazon.in/), [Practo](https://www.practo.com/), and [D. E. Shaw](https://www.deshawindia.com/).
 
