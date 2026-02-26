@@ -4,4 +4,8 @@ In 2024, I took a leap of faith and co-founded [Profile.fyi](https://profile.fyi
 
 I held engineering leadership positions (both IC and management) at [Unacademy](https://unacademy.com/), where I built, grew, and led Search, Site Reliability Engineering (SRE) teams, and Data Engineering teams. I hold a total of 10+ years of experience in scaling backend services, taking products and teams from 0 to 1, and beyond.
 
-I keep diving deep into engineering details and share my learnings by across my [socials](https://twitter.com/arpit_bhayani) and videos on [YouTube](https://youtube.com/c/ArpitBhayani).
+I keep diving deep into engineering details and share my learnings across my [socials](https://twitter.com/arpit_bhayani) and videos on [YouTube](https://youtube.com/c/ArpitBhayani).
+
+## Side projects
+
+- [PageStack](https://github.com/arpitbbhayani/pagestack) - Create an EPUB from URLs to read on your Kindle
