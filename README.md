@@ -8,4 +8,5 @@ I keep diving deep into engineering details and share my learnings across my [so
 
 ## Side projects
 
-- [PageStack](https://github.com/arpitbbhayani/pagestack) - Create an EPUB from URLs to read on your Kindle
+- [PageStack](https://github.com/arpitbbhayani/pagestack) - Create an EPUB from URLs to read on your Kindle.
+- [Obsidian HackerNews](https://github.com/arpitbbhayani/obsidian-hackernews) - Displays top stories from Hacker News in Obsidian.
