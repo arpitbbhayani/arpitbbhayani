@@ -8,5 +8,7 @@ I keep diving deep into engineering details and share my learnings across my [so
 
 ## Side projects
 
+- [DiceDB](https://github.com/dicedb/dicedb) - In-memory KV store with Query Subscription and Multi-tiered Storage.
 - [PageStack](https://github.com/arpitbbhayani/pagestack) - Create an EPUB from URLs to read on your Kindle.
 - [Obsidian HackerNews](https://github.com/arpitbbhayani/obsidian-hackernews) - Displays top stories from Hacker News in Obsidian.
+- [S4DB] - Python-based database built on top of S3 storage.
