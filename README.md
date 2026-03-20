@@ -1,4 +1,4 @@
-I am a software engineer and an engineering leader passionate about Databases, System Architecture, and Advanced Algorithms. I am also the creator and maintainer of [DiceDB](https://github.com/dicedb/dice) - Valkey fork with Query Subscription and Multi-tiered Storage - and [s4db](https://github.com/arpitbbhayani/s4db) - a Python-based embedded KV database built on top of S3 storage.
+I am a software engineer and an engineering leader passionate about Databases, System Architecture, and Advanced Algorithms. I am also the creator and maintainer of [DiceDB](https://github.com/dicedb/dice) - Valkey fork with Query Subscription and Multi-tiered Storage - and [s4db](https://github.com/arpitbbhayani/s4db) - Python-based embedded KV DB built on top of S3.
 
 In 2024, I took a leap of faith and co-founded [Profile.fyi](https://profile.fyi), which was later acquired by Mercor. Today, I am a Staff Engineer at [Google](https://cloud.google.com/), leading the Ads Forecasting. Before this, I had led the [Dataproc](https://cloud.google.com/dataproc) India team, where we built a managed big data ecosystem for GCP customers, enabling them to handle data at scale seamlessly. Earlier in my journey, I was part of [Amazon's](https://www.amazon.com/) Fast Data Team, where I worked on cold tiering of hot data and developed a seamless query interface across all storage tiers.
 
@@ -9,7 +9,7 @@ I keep diving deep into engineering details and share my learnings across my [so
 ## Side projects
 
 - [DiceDB](https://github.com/dicedb/dicedb) - Valkey fork with Query Subscription and Multi-tiered Storage.
-- [S4DB](https://github.com/arpitbbhayani/s4db) - Python-based embedded KV database built on top of S3 storage.
+- [S4DB](https://github.com/arpitbbhayani/s4db) - A Python-based embedded KV DB built on top of S3.
 - [PageStack](https://github.com/arpitbbhayani/pagestack) - Create an EPUB from URLs to read on your Kindle.
 - [Obsidian HackerNews](https://github.com/arpitbbhayani/obsidian-hackernews) - Displays top stories from Hacker News in Obsidian.
 - [Present-md](https://github.com/arpitbbhayani/present-md) - Write slides in Markdown, run locally, present clean - built for engineers who hate slide tools.
