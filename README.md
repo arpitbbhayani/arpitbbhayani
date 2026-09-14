@@ -1,7 +1,7 @@
 I am a software engineer and engineering leader passionate about applied AI and databases. Currently, I am a Principal Engineer II at [Razorpay](https://razorpay.com), working at the intersection of Data and AI, where I am building Agent Studio, which enables merchants to create AI agents while we provide the infrastructure and harness to run them reliably. I am also working on the Customer Data Platform and leading Merchant Developer Experience.
 
-I am also building [px0.ai](https://px0.ai), an open-source utility to build custom agents and workflows using natural language, then run them on a schedule.
-
+I am also building <a href="https://px0.ai" target="_blank">px0.ai</a>, an open-source fast, lightweight, read-only IDE designed for instant code navigation and review in your browser. Booting in under 1 ms and using ~20 MB of RAM, it turns your browser into a zero-latency inspection console with symbol-level navigation, deep search, and syntax highlighting across massive codebases.
+        
 Previously, I was a Staff Engineer at Google, where I worked on [GCP Memorystore](https://cloud.google.com/memorystore) and [GCP Dataproc](https://cloud.google.com/dataproc). On the side, I am building - [DiceDB](https://github.com/dicedb/dice), a fork of Valkey with [multi-tiering](https://dicedb.io/docs/features/tiering) and [query subscriptions](https://dicedb.io/docs/features/query-subscriptions). I also spend time on independent research, publishing [my work on ArXiv](https://arxiv.org/search/cs?searchtype=author&query=Bhayani,+A). My areas of interest include databases, approximate algorithms, and distributed systems.
 
 In 2024, I took a leap of faith and co-founded [Profile.fyi](https://profile.fyi/), which was later acquired by Mercor. I was part of [Amazon's](https://www.amazon.com/) Fast Data Team, where I worked on cold tiering of hot data and developed a seamless query interface across all storage tiers.
